@@ -17,16 +17,16 @@ If I had more time, these are some of the additions and changes that I would mak
 
 ### Screenshots
 #### Screen : Program List
-![Program List](https://i.ibb.co/pv0Xrx6/99224c74-80c4-48ba-98ab-23b749a8565c.jpg "Programs List")
+![Program List](screenshots/plist.jpg "Programs List")
 
 #### Screen : Clips - Preparing stream
 - When you click on a clip, it is first async prepared before playing
-![Clips](https://i.ibb.co/fXmRXzy/c7436994-d2d2-44fc-b376-a6387f83d97c.jpg "Preparing Music")
+![Clips](screenshots/preparingmusic.jpg "Preparing Music")
 
 #### Screen : Clips - Press to Pause
 - When a clip is playing, press the pause button to pause
-![Clips](https://i.ibb.co/h2XqChX/4077314d-95bd-4286-a74b-78429b8d2715.jpg "When a clip is playing, press the pause button to pause")
+![Clips](screenshots/nowplaying.jpg "When a clip is playing, press the pause button to pause")
 
 #### Screen : Clips - Press to resume playing
 - When a clip is paused, press the resume button to resume playing
-![Clips](https://i.ibb.co/Nr91vvv/59d15845-044c-4358-8e55-128f4b34eefe.jpg "When a clip is paused, press the resume button to resume playing")
+![Clips](screenshots/paused.jpg "When a clip is paused, press the resume button to resume playing")
